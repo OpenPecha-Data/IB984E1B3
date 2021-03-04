@@ -1,15 +1,15 @@
-id: opecha:P000497
+id: P000497
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W27888
   title: བསྐྱེད་རིམ་སྤྱིའི་རྣམ་བཞག
-  volume:
+  author: ''
+  volumes:
     d07de645c3d147ef81389ec91c4939af:
       image_group_id: I4682
       title: ''
       volume_number: 1
       total_pages: 194
-  author: ''
 ebook_metadata:
   title: བསྐྱེད་རིམ་སྤྱིའི་རྣམ་བཞག
   author: ''
